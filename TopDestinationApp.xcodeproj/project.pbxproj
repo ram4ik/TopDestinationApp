@@ -51,6 +51,9 @@
 		520B3F502B3DE6180097BC34 /* TopDestinationApp */ = {
 			isa = PBXGroup;
 			children = (
+				520B3F612B3DE6580097BC34 /* Resources */,
+				520B3F602B3DE6550097BC34 /* Models */,
+				520B3F5F2B3DE6510097BC34 /* Utils */,
 				520B3F512B3DE6180097BC34 /* TopDestinationAppApp.swift */,
 				520B3F532B3DE6180097BC34 /* ContentView.swift */,
 				520B3F552B3DE61A0097BC34 /* Assets.xcassets */,
@@ -65,6 +68,27 @@
 				520B3F582B3DE61A0097BC34 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		520B3F5F2B3DE6510097BC34 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		520B3F602B3DE6550097BC34 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		520B3F612B3DE6580097BC34 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
